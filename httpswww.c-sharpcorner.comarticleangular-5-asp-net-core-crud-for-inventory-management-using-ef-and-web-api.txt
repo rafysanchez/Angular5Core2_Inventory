@@ -1,0 +1,2 @@
+https://www.c-sharpcorner.com/article/angular-5-asp-net-core-crud-for-inventory-management-using-ef-and-web-api/
+
